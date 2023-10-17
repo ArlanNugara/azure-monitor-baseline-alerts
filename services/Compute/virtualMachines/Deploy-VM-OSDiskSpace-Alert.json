@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy VM OS Disk Space Alert",
+    "displayName": "CSL CCC Deploy VM OS Disk Space Alert",
     "description": "Policy to audit/deploy VM OSDiskSpace Alert",
     "metadata": {
       "version": "1.0.1",

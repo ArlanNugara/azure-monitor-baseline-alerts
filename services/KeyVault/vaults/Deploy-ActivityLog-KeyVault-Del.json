@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy Activity Log Key Vault Delete Alert",
+    "displayName": "CSL CCC Deploy Activity Log Key Vault Delete Alert",
     "description": "Policy to Deploy Activity Log Key Vault Delete Alert",
     "metadata": {
       "version": "1.0.1",

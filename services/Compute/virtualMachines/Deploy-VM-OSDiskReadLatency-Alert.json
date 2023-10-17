@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy VM OS Disk Read Latency Alert",
+    "displayName": "CSL CCC Deploy VM OS Disk Read Latency Alert",
     "description": "Policy to audit/deploy VM OSDiskreadLatency Alert",
     "metadata": {
       "version": "1.0.1",

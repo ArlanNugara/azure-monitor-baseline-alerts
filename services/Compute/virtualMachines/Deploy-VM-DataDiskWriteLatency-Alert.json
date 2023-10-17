@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy VM Data Disk Write Latency Alert",
+    "displayName": "CSL CCC Deploy VM Data Disk Write Latency Alert",
     "description": "Policy to audit/deploy VM dataDiskWriteLatency Alert",
     "metadata": {
       "version": "1.0.1",

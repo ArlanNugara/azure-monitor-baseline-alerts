@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy VM HeartBeat Alert",
+    "displayName": "CSL CCC Deploy VM HeartBeat Alert",
     "description": "Policy to audit/deploy VM HeartBeat Alert for all VMs in the subscription",
     "metadata": {
       "version": "1.0.1",

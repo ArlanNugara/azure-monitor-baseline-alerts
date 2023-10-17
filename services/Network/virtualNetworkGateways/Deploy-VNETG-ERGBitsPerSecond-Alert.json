@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy VNetG ExpressRoute Bits Per Second Alert",
+    "displayName": "CSL CCC Deploy VNetG ExpressRoute Bits Per Second Alert",
     "description": "Policy to audit/deploy Virtual Network Gateway Express Route Bits Per Second Alert",
     "metadata": {
       "version": "1.0.1",

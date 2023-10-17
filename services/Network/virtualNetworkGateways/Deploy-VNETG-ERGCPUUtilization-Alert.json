@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy VNetG ExpressRoute CPU Utilization Alert",
+    "displayName": "CSL CCC Deploy VNetG ExpressRoute CPU Utilization Alert",
     "description": "Policy to audit/deploy Virtual Network Gateway Express Route CPU Utilization Alert",
     "metadata": {
       "version": "1.0.1",

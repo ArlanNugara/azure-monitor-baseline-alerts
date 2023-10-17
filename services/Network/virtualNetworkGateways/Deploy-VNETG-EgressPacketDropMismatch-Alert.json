@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy VNetG Egress Packet Drop Mismatch Alert",
+    "displayName": "CSL CCC Deploy VNetG Egress Packet Drop Mismatch Alert",
     "description": "Policy to audit/deploy Vnet Gateway Egress Packet Drop Mismatch Alert",
     "metadata": {
       "version": "1.0.1",

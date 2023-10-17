@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy ER Direct ExpressRoute RxLightLevel High Alert",
+    "displayName": "CSL CCC Deploy ER Direct ExpressRoute RxLightLevel High Alert",
     "description": "Policy to audit/deploy ER Direct RxLightLevel High Alert",
     "metadata": {
       "version": "1.0.1",

@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy ERG ExpressRoute CPU Utilization Alert",
+    "displayName": "CSL CCC Deploy ERG ExpressRoute CPU Utilization Alert",
     "description": "Policy to audit/deploy ER Gateway Express Route CPU Utilization Alert",
     "metadata": {
       "version": "1.0.1",

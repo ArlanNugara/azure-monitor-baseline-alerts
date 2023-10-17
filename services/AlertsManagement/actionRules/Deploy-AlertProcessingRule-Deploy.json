@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy Alert Processing Rule",
+    "displayName": "CSL CCC Deploy Alert Processing Rule",
     "description": "Policy to Deploy Deploy Alert Processing Rule with Action Group",
     "metadata": {
       "version": "1.0.2",

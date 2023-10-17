@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy AGW FailedRequests Alert",
+    "displayName": "CSL CCC Deploy AGW FailedRequests Alert",
     "description": "Policy to audit/deploy Azure Application Gateway FailedRequests Alert",
     "metadata": {
       "version": "1.0.1",

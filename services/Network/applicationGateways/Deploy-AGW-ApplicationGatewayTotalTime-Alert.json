@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy AGW ApplicationGatewayTotalTime Alert",
+    "displayName": "CSL CCC Deploy AGW ApplicationGatewayTotalTime Alert",
     "description": "Policy to audit/deploy Azure Application Gateway ApplicationGatewayTotalTime Alert",
     "metadata": {
       "version": "1.0.1",

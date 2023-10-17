@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy AGW Compute Units Alert",
+    "displayName": "CSL CCC Deploy AGW Compute Units Alert",
     "description": "Policy to audit/deploy Azure Application Gateway ComputeUnits Alert",
     "metadata": {
       "version": "1.0.1",

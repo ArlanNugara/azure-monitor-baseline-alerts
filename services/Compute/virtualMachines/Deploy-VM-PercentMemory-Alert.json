@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy VM Memory Alert",
+    "displayName": "CSL CCC Deploy VM Memory Alert",
     "description": "Policy to audit/deploy VM Memory Alert",
     "metadata": {
       "version": "1.0.1",

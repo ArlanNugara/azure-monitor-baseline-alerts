@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy Automation Account TotalJob Alert",
+    "displayName": "CSL CCC Deploy Automation Account TotalJob Alert",
     "description": "Policy to audit/deploy Automation Account TotalJob Alert",
     "metadata": {
       "version": "1.0.1",

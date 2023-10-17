@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy Activity Log NSG Delete Alert",
+    "displayName": "CSL CCC Deploy Activity Log NSG Delete Alert",
     "description": "Policy to Deploy Activity Log NSG Delete Alert",
     "metadata": {
       "version": "1.0.2",

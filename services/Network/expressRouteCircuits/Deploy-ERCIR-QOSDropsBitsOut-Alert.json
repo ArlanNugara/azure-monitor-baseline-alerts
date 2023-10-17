@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy ExpressRoute Circuits QosDropBitsOutPerSecond Alert",
+    "displayName": "CSL CCC Deploy ExpressRoute Circuits QosDropBitsOutPerSecond Alert",
     "description": "Policy to audit/deploy ExpressRoute Circuits QosDropBitsOutPerSecond Alert",
     "metadata": {
       "version": "1.0.1",

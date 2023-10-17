@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy Resource Health Unhealthy Alert",
+    "displayName": "CSL CCC Deploy Resource Health Unhealthy Alert",
     "description": "Policy to Deploy Resource Health Unhealthy Alert",
     "metadata": {
       "version": "1.0.2",

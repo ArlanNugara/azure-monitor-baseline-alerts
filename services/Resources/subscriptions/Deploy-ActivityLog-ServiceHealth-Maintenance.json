@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy Service Health Maintenance Alert",
+    "displayName": "CSL CCC Deploy Service Health Maintenance Alert",
     "description": "Policy to Deploy Service Health Maintenance Alert",
     "metadata": {
       "version": "1.1.1",

@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy RV Backup Health Monitoring Alerts",
+    "displayName": "CSL CCC Deploy RV Backup Health Monitoring Alerts",
     "description": "Policy to audit/update Recovery Vault Backup Health Alerting to Azure monitor alerts",
     "metadata": {
       "version": "1.0.0",

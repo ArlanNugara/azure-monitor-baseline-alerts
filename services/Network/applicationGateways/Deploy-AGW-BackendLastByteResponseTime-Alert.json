@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy AGW BackendLastByteResponseTime Alert",
+    "displayName": "CSL CCC Deploy AGW BackendLastByteResponseTime Alert",
     "description": "Policy to audit/deploy Azure Application Gateway BackendLastByteResponseTime Alert",
     "metadata": {
       "version": "1.0.1",

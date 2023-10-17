@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy AFW FirewallHealth Alert",
+    "displayName": "CSL CCC Deploy AFW FirewallHealth Alert",
     "description": "Policy to audit/deploy Azure Firewall FirewallHealth Alert",
     "metadata": {
       "version": "1.0.1",

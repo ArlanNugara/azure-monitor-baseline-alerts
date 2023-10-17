@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy PDNSZ Query Volume Alert",
+    "displayName": "CSL CCC Deploy PDNSZ Query Volume Alert",
     "description": "Policy to audit/deploy Private DNS Zone Query Volume Alert",
     "metadata": {
       "version": "1.0.1",

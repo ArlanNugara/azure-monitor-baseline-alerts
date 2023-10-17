@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy ExpressRoute Circuits Bgp Availability Alert",
+    "displayName": "CSL CCC Deploy ExpressRoute Circuits Bgp Availability Alert",
     "description": "Policy to audit/deploy ExpressRoute Circuits Bgp Availability Alert",
     "metadata": {
       "version": "1.0.1",

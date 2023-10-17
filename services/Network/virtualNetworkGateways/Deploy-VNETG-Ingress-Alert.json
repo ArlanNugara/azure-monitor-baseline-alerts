@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy VNetG Tunnel Ingress Alert",
+    "displayName": "CSL CCC Deploy VNetG Tunnel Ingress Alert",
     "description": "Policy to audit/deploy Virtual Network Gateway Tunnel Ingress Alert",
     "metadata": {
       "version": "1.0.1",

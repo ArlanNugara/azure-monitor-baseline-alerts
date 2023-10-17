@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy ER Direct ExpressRoute LineProtocol Alert",
+    "displayName": "CSL CCC Deploy ER Direct ExpressRoute LineProtocol Alert",
     "description": "Policy to audit/deploy ER Direct LineProtocol Alert",
     "metadata": {
       "version": "1.0.1",

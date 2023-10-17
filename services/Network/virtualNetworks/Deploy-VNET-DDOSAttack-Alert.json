@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy VNet DDoS Attack Alert",
+    "displayName": "CSL CCC Deploy VNet DDoS Attack Alert",
     "description": "Policy to audit/deploy Virtual Network DDoS Attack Alert",
     "metadata": {
       "version": "1.0.1",

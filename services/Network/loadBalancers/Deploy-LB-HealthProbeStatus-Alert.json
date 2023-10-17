@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy ALB Health Probe Status Alert",
+    "displayName": "CSL CCC Deploy ALB Health Probe Status Alert",
     "description": "Policy to audit/deploy Azure Load Balancer Health Probe Status Alert",
     "metadata": {
       "version": "1.0.1",

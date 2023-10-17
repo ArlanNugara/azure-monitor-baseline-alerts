@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy Activity Log LA Workspace Regenerate Key Alert",
+    "displayName": "CSL CCC Deploy Activity Log LA Workspace Regenerate Key Alert",
     "description": "Policy to Deploy Activity Log LA Workspace Regenerate Key Alert",
     "metadata": {
       "version": "1.0.2",

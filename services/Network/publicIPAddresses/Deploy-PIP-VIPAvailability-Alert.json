@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy PIP VIP Availability Alert",
+    "displayName": "CSL CCC Deploy PIP VIP Availability Alert",
     "description": "Policy to audit/deploy PIP VIP Availability Alert",
     "metadata": {
       "version": "1.0.1",

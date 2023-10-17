@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy ERG ExpressRoute Bits Out Alert",
+    "displayName": "CSL CCC Deploy ERG ExpressRoute Bits Out Alert",
     "description": "Policy to audit/deploy ER Gateway Connection BitsOutPerSecond Alert",
     "metadata": {
       "version": "1.0.1",

@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy AGW CPU Utilization Alert",
+    "displayName": "CSL CCC Deploy AGW CPU Utilization Alert",
     "description": "Policy to audit/deploy Azure Application Gateway CPU Utilization Alert",
     "metadata": {
       "version": "1.0.1",

@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy SA Availability Alert",
+    "displayName": "CSL CCC Deploy SA Availability Alert",
     "description": "Policy to audit/deploy SA Availability Alert",
     "metadata": {
       "version": "1.0.1",

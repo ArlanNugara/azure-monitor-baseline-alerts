@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy VM Network Write Alert",
+    "displayName": "CSL CCC Deploy VM Network Write Alert",
     "description": "Policy to audit/deploy VM Network Out Alert",
     "metadata": {
       "version": "1.0.1",

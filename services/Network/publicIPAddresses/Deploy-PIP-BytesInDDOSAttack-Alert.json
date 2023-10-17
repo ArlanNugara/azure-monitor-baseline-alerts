@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy PIP Bytes in DDoS Attack Alert",
+    "displayName": "CSL CCC Deploy PIP Bytes in DDoS Attack Alert",
     "description": "Policy to audit/deploy PIP Bytes in DDoS Attack Alert",
     "metadata": {
       "version": "1.0.1",

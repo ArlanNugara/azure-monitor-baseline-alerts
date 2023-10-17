@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy AGW ResponseStatus Alert",
+    "displayName": "CSL CCC Deploy AGW ResponseStatus Alert",
     "description": "Policy to audit/deploy Azure Application Gateway ResponseStatus Alert",
     "metadata": {
       "version": "1.0.1",

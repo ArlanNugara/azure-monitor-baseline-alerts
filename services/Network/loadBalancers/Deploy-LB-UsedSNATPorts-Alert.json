@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy ALB Used SNAT Ports Alert",
+    "displayName": "CSL CCC Deploy ALB Used SNAT Ports Alert",
     "description": "Policy to audit/deploy Azure Load Balancer Used SNAT Ports Alert",
     "metadata": {
       "version": "1.0.1",

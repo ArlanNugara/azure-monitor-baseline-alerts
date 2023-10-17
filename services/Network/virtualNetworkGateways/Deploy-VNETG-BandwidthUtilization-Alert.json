@@ -5,7 +5,7 @@
   "properties": {
     "policyType": "Custom",
     "mode": "All",
-    "displayName": "Deploy VNetG Tunnel Bandwidth Alert",
+    "displayName": "CSL CCC Deploy VNetG Tunnel Bandwidth Alert",
     "description": "Policy to audit/deploy Virtual Network Gateway Tunnel Bandwidth Alert",
     "metadata": {
       "version": "1.0.1",

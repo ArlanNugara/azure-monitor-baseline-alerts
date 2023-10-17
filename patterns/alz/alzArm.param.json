@@ -3,22 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "enterpriseScaleCompanyPrefix": {
-      "value": "contoso"
+      "value": "central_cloud_core"
     },
     "platformManagementGroup": {
-      "value": "contoso-platform"
+      "value": "ccc_cloud_platform"
     },
     "IdentityManagementGroup": {
-      "value": "contoso-identity"
+      "value": "identity_management"
     },
     "managementManagementGroup": {
-      "value": "contoso-management"
+      "value": "management"
     },
     "connectivityManagementGroup": {
-      "value": "contoso-connectivity"
+      "value": "connectivity"
     },
     "LandingZoneManagementGroup": {
-      "value": "contoso-landingzones"
+      "value": "ccc_landing_zone"
     },
     "enableAMBAConnectivity": {
       "value": "Yes"
@@ -41,22 +41,22 @@
     "policyAssignmentParametersCommon": {
       "value": {
         "ALZMonitorResourceGroupName": {
-          "value": "rg-amba-monitoring-001"
+          "value": "alv-monitoring-rg"
         },
         "ALZMonitorResourceGroupTags": {
           "value": {
-            "Project": "amba-monitoring"
+            "Project": "alv-monitoring"
           }
         },
         "ALZMonitorResourceGroupLocation": {
-          "value": "eastus"
+          "value": "canadacentral"
         }
       }
     },
     "policyAssignmentParametersServiceHealth": {
       "value": {
         "ALZMonitorActionGroupEmail": {
-          "value": "action@mail.com"
+          "value": "kalimullah.gazi@alvarnet.com, arlan.nugara@alvarnet.com"
         },
         "ResHlthUnhealthyAlertState": {
           "value": "true"
